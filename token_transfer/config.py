@@ -1,0 +1,26 @@
+""" General settings """
+GAS_PRICE = 16
+GAS_LIMIT = 60000
+
+IS_WAIT_FOR_CONFIRM = False
+SLEEP_TIME_PER_ADDRESS = 1  # second
+USING_TEST_NET = False
+INFURA_TOKEN = "85e10d5593c54bbe86b7886be490282a"
+
+CONTRACT_ADDRESS = '0x58b6a8a3302369daec383334672404ee733ab239'
+MINIMUM_BALANCE = 0  # threshold
+
+""" Destination settings """
+DEST_ADDRESS = "0x6eb17F0C20Bb84b589a1b71C6212264813a80551"
+
+""" CSV File Settings"""
+SOURCE_FILE_NAME = "input.csv"
+OUTPUT_FILE_NAME = "output.csv"
+
+
+
+
+
+
+
+
